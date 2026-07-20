@@ -1,30 +1,29 @@
 # 🕴🏿 Cauã Oliveira
 
-**`Desenvolvedor Front-end`**
+**`Front-end Developer`**
 
-Me chamo Cauã de Oliveira, tenho 20 anos e sou do Rio de Janeiro. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UVA.
-Tenho um enorme interesse por tecnlogia e estou sempre buscando aprender coisas novas, aprofundar o que já conheço e expandir meu conhecimento.
+I'm Cauã de Oliveira, a 20-year-old from Rio de Janeiro. Currently, I'm pursuing a degree in Analysis and Systems Development at UVA. I'm deeply passionate about technology and always seeking to learn new things, deepen my skills, and expand my knowledge.
 <p align="left">
     </a> 
     <a href="https://github.com/CauaDlv?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CauaDlv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total of stars" 
+            title="Stars on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/CauaDlv?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/CauaDlv?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CauaDlv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/CauaDlv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 👾 Linguagens e Tecnologias
+### 👾 Languages and Technologies
 
 <img 
     align="left" 
@@ -77,9 +76,9 @@ Tenho um enorme interesse por tecnlogia e estou sempre buscando aprender coisas 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CauaDlv&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CauaDlv&show_icons=true&theme=radical&include_all_commits=true&locale=en)
 
 <div> 
  
